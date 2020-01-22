@@ -12,7 +12,7 @@
 
 ## Optional
 
-- [ ] Elevator (0.5p)
+- [x] Elevator (0.5p)
 - [ ] Pickable Items, coins and keys (1.0p)
 - [ ] Key Door (0.5p)
 - [ ] Coin Door (0.5p)
