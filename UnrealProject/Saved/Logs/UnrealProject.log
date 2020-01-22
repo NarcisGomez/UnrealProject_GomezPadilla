@@ -688,3 +688,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.22-15.18.10:797][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.01.22-15.18.10:800][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2020.01.22-15.18.10:840][215]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.01.22-15.27.45:393][209]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
