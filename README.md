@@ -5,7 +5,7 @@
 
 - [ ] Terrain & vegetation (0.5p)
 - [ ] Platform zone (0.5p)
-- [ ] Third Person Player, move and jump (0.5p)
+- [x] Third Person Player, move and jump (0.5p)
 - [ ] Dead zone (0.5p)
 - [ ] Automatic doors (0.5p)
 - [ ] Interior area with different lights (1.0p)
