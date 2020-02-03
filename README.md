@@ -8,7 +8,7 @@
 - [x] Third Person Player, move and jump (0.5p)
 - [x] Dead zone (0.5p)
 - [x] Automatic doors (0.5p)
-- [ ] Interior area with different lights (1.0p)
+- [x] Interior area with different lights (1.0p)
 
 ## Optional
 
