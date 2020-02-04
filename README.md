@@ -1,22 +1,22 @@
-# Unreal Project
+# Unreal Project v2
 ### Narcis Gomez & Dídac Padilla
 
-## Mandatory
+## Mandatory (4.5p)
 
-- [x] Terrain & vegetation (0.5p)
-- [x] Platform zone (0.5p)
-- [x] Third Person Player, move and jump (0.5p)
-- [x] Dead zone (0.5p)
-- [x] Automatic doors (0.5p)
-- [x] Interior area with different lights (1.0p)
+- [] First person controller for the player (0.5p)
+- [] Animation BP for the controller (1.0p)
+- [] HUD for keys & coins (1.0p)
+- [] AI patrolling with navmesh (0.5p)
+- [] Ragdoll for AI (1.0p)
+- [] Game menu, game over & pause menu (0.5p)
 
-## Optional
+## Optional (5.5p)
 
-- [x] Elevator (0.5p)
-- [x] Pickable Items, coins and keys (1.0p)
-- [x] Key Door (0.5p)
-- [x] Coin Door (0.5p)
-- [x] Create the 3 light bulbs puzzle to open a door. Each light bulb is controlled from a switch that change its color. (1.0p)
-- [x] Confusion trigger, invert controls for 5 seconds (1.0p)
-- [x] Good code structure (1.0p)
-- [x] Git (1.0p)
+- [] Behaviour tree for AI (1.5p)
+- [] Animation BP for AI behaviour (1.0p)
+- [] Shooting mechanics for FP controller (0.5p)
+- [] Head bobbing & camera shake (0.5p)
+- [] HUD for door requierements (0.5p)
+- [] live HUD for AI's health (0.5p)
+- [] Good code structure (0.5p)
+- [] Git (0.5p)
