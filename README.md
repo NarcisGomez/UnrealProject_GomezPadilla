@@ -15,7 +15,7 @@
 - [ ] Behaviour tree for AI (1.5p)
 - [ ] Animation BP for AI behaviour (1.0p)
 - [x] Shooting mechanics for FP controller (0.5p)
-- [ ] Head bobbing & camera shake (0.5p)
+- [x] Head bobbing & camera shake (0.5p)
 - [ ] HUD for door requierements (0.5p)
 - [ ] live HUD for AI's health (0.5p)
 - [ ] Good code structure (0.5p)
