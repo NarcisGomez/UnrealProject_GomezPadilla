@@ -7,8 +7,8 @@
 - [ ] Animation BP for the controller (1.0p)
 - [ ] HUD for keys & coins (1.0p)
 - [ ] AI patrolling with navmesh (0.5p)
-- [ ] Ragdoll for AI (1.0p)
-- [ ] Game menu, game over & pause menu (0.5p)
+- [x] Ragdoll for AI (1.0p)
+- [x] Game menu, game over & pause menu (0.5p)
 
 ## Optional (5.5p)
 
