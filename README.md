@@ -12,7 +12,7 @@
 
 ## Optional (5.5p)
 
-- [ ] Behaviour tree for AI (1.5p)
+- [x] Behaviour tree for AI (1.5p)
 - [ ] Animation BP for AI behaviour (1.0p)
 - [x] Shooting mechanics for FP controller (0.5p)
 - [x] Head bobbing & camera shake (0.5p)
