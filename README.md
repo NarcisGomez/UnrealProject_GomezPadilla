@@ -1,22 +1,19 @@
-# Unreal Project v2
+# Unreal Project v3
 ### Narcis Gomez & Dídac Padilla
 
-## Mandatory (4.5p)
+## Mandatory (4.0p)
 
-- [x] First person controller for the player (0.5p)
-- [x] Animation BP for the controller (1.0p)
-- [x] HUD for keys & coins (1.0p)
-- [x] AI patrolling with navmesh (0.5p)
-- [x] Ragdoll for AI (1.0p)
-- [x] Game menu, game over & pause menu (0.5p)
+- [ ] Physical bullet with pawn control (1.0p)
+- [ ] Load & Save (manual & automatic) (1.0p)
+- [ ] 5 sounds (0.5p)
+- [ ] Particles for each shot type (1.0p)
+- [ ] Explain code structure (0.5p)
 
-## Optional (5.5p)
+## Optional (6.0p)
 
-- [x] Behaviour tree for AI (1.5p)
-- [ ] Animation BP for AI behaviour (1.0p)
-- [x] Shooting mechanics for FP controller (0.5p)
-- [x] Head bobbing & camera shake (0.5p)
-- [x] HUD for door requierements (0.5p)
-- [x] live HUD for AI's health (0.5p)
-- [X] Good code structure (0.5p)
-- [x] Git (0.5p)
+- [ ] Animations & VFX for HUD (0.5p)
+- [ ] Use of 3 post-processes (1.0p)
+- [ ] Sequence with event system (1.0p)
+- [ ] Dissolution material for IA or platform (1.0p)
+- [ ] REFACTOR (2.0p)
+- [ ] Git (0.5p)
