@@ -14,6 +14,6 @@
 - [x] Animations & VFX for HUD (0.5p)
 - [x] Use of 3 post-processes (1.0p)
 - [ ] Sequence with event system (1.0p)
-- [ ] Dissolution material for IA or platform (1.0p)
+- [x] Dissolution material for IA or platform (1.0p)
 - [ ] REFACTOR (2.0p)
-- [ ] Git (0.5p)
+- [x] Git (0.5p)
