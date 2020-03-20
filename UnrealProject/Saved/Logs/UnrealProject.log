@@ -8443,3 +8443,650 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.20-15.47.42:484][296]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2020.03.20-15.47.42:484][296]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
 [2020.03.20-15.47.42:484][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.49.01:780][969]LogSlate: Window 'Message Log' being destroyed
+[2020.03.20-15.49.01:781][969]LogSlate: Window 'Message Log' being destroyed
+[2020.03.20-15.49.49:121][297]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 D:\Descargas\checkpoint.mp3)
+[2020.03.20-15.49.52:085][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/checkpoint" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/Sounds/checkpoint.uasset" SILENT=true
+[2020.03.20-15.49.52:090][642]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/checkpointD8CBBDC348BA77EEE7C6F9B9FAE0A70C.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/Sounds/checkpoint.uasset'
+[2020.03.20-15.49.52:104][642]AssetCheck: New page: Asset Save: checkpoint
+[2020.03.20-15.49.52:104][642]LogContentValidation: Display: Validating FileMediaSource /Game/Sounds/checkpoint.checkpoint
+[2020.03.20-15.50.06:035][293]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Sounds/checkpoint.checkpoint
+[2020.03.20-15.50.14:716][304]LogSlate: Window 'checkpoint' being destroyed
+[2020.03.20-15.50.16:888][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.03.20-15.50.18:210][553]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.20-15.50.18:307][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.20-15.50.18:334][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.03.20-15.50.18:358][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.03.20-15.50.33:216][246]LogSlate: Window 'Content Browser' being destroyed
+[2020.03.20-15.50.33:219][246]LogSlate: Window 'Content Browser' being destroyed
+[2020.03.20-15.51.31:532][627]AssetReimport: New page: Outstanding source content changes 17:51:31
+[2020.03.20-15.51.31:534][627]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 T:/Gits/UnrealProject/UnrealProject/Content/Sounds/checkpoint.wav)
+[2020.03.20-15.51.31:748][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/checkpoint" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/Sounds/checkpoint.uasset" SILENT=true
+[2020.03.20-15.51.31:756][628]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/checkpointE0B060B042AF7F903AFE179370054DD8.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/Sounds/checkpoint.uasset'
+[2020.03.20-15.51.31:842][629]AssetCheck: New page: Asset Save: checkpoint
+[2020.03.20-15.51.31:842][629]LogContentValidation: Display: Validating SoundWave /Game/Sounds/checkpoint.checkpoint
+[2020.03.20-15.51.34:891][779]AssetReimport: Importing new asset /Game/Sounds/checkpoint.
+[2020.03.20-15.51.40:338][165]AssetReimport: New page: Outstanding source content changes 17:51:40
+[2020.03.20-15.51.40:361][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.03.20-15.51.43:548][165]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.20-15.51.43:620][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.03.20-15.51.43:643][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.03.20-15.51.43:664][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.20-15.51.46:675][525]AssetReimport: Attempting to delete checkpoint (its source file has been removed).
+[2020.03.20-15.51.48:963][795]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave death...
+[2020.03.20-15.51.48:964][795]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/death.death will be modified from 40 to 40.
+[2020.03.20-15.51.48:988][795]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 294912 while cooking SoundWave /Game/Sounds/death.death.
+[2020.03.20-15.52.11:582][155]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Descargas\checkpoint.wav)
+[2020.03.20-15.52.11:582][155]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave checkpoint...
+[2020.03.20-15.52.11:582][155]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/checkpoint.checkpoint will be modified from 40 to 40.
+[2020.03.20-15.52.11:594][155]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 188416 while cooking SoundWave /Game/Sounds/checkpoint.checkpoint.
+[2020.03.20-15.52.14:734][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/checkpoint" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/Sounds/checkpoint.uasset" SILENT=true
+[2020.03.20-15.52.14:740][452]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/checkpointB223188544D48C5041FE87BD065876E6.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/Sounds/checkpoint.uasset'
+[2020.03.20-15.52.14:754][452]AssetCheck: New page: Asset Save: checkpoint
+[2020.03.20-15.52.14:754][452]LogContentValidation: Display: Validating SoundWave /Game/Sounds/checkpoint.checkpoint
+[2020.03.20-15.53.34:613][914]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurBP/Triggers/DeathTrigger.DeathTrigger
+[2020.03.20-15.53.38:796][352]LogSlate: Window 'DeathTrigger' being destroyed
+[2020.03.20-15.53.41:965][698]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.03.20-15.53.43:214][698]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.20-15.53.49:987][507]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/OurBP/Triggers/CheckpointTrigger.
+[2020.03.20-15.53.50:945][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurBP/Triggers/CheckpointTrigger" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset" SILENT=true
+[2020.03.20-15.53.50:952][619]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/CheckpointTrigger220849114E8087087D545490E53437BE.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset'
+[2020.03.20-15.53.50:959][619]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/OurBP/Triggers/CheckpointTrigger.
+[2020.03.20-15.53.50:966][619]AssetCheck: New page: Asset Save: CheckpointTrigger
+[2020.03.20-15.53.50:966][619]LogContentValidation: Display: Validating Blueprint /Game/OurBP/Triggers/CheckpointTrigger.CheckpointTrigger
+[2020.03.20-15.53.52:462][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurBP/Triggers/CheckpointTrigger.CheckpointTrigger
+[2020.03.20-15.53.54:731][ 29]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.20-15.53.58:135][418]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/OurBP/Triggers/CheckpointTrigger.CheckpointTrigger from Actor to Trigger_C...
+[2020.03.20-15.53.58:137][418]BlueprintLog: New page: Compile CheckpointTrigger
+[2020.03.20-15.53.58:329][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.03.20-15.54.01:479][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurBP/Triggers/CheckpointTrigger" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset" SILENT=true
+[2020.03.20-15.54.01:492][763]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/CheckpointTriggerC0910471427D61D50AECBDAED1D497CC.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset'
+[2020.03.20-15.54.01:502][763]AssetCheck: New page: Asset Save: CheckpointTrigger
+[2020.03.20-15.54.01:502][763]LogContentValidation: Display: Validating Blueprint /Game/OurBP/Triggers/CheckpointTrigger.CheckpointTrigger
+[2020.03.20-15.54.26:189][650]BlueprintLog: New page: Compile CheckpointTrigger
+[2020.03.20-15.54.26:404][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.03.20-15.54.26:615][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurBP/Triggers/CheckpointTrigger" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset" SILENT=true
+[2020.03.20-15.54.26:629][670]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/CheckpointTrigger5CB0C03C406CDEC222C962B8C6849EE0.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset'
+[2020.03.20-15.54.26:643][670]AssetCheck: New page: Asset Save: CheckpointTrigger
+[2020.03.20-15.54.26:643][670]LogContentValidation: Display: Validating Blueprint /Game/OurBP/Triggers/CheckpointTrigger.CheckpointTrigger
+[2020.03.20-15.55.06:094][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurBP/CharactersAndGameModes/MyGameMode.MyGameMode
+[2020.03.20-15.55.24:926][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurBP/CharactersAndGameModes/MyCharacter.MyCharacter
+[2020.03.20-15.55.44:812][803]BlueprintLog: New page: Compile CheckpointTrigger
+[2020.03.20-15.55.45:011][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.03.20-15.55.45:230][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurBP/Triggers/CheckpointTrigger" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset" SILENT=true
+[2020.03.20-15.55.45:251][823]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/CheckpointTrigger70C6DAA44A4FBFBCB786A2B190F52D29.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset'
+[2020.03.20-15.55.45:273][823]AssetCheck: New page: Asset Save: CheckpointTrigger
+[2020.03.20-15.55.45:273][823]LogContentValidation: Display: Validating Blueprint /Game/OurBP/Triggers/CheckpointTrigger.CheckpointTrigger
+[2020.03.20-15.56.10:153][716]BlueprintLog: New page: Compile CheckpointTrigger
+[2020.03.20-15.56.10:346][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.03.20-15.56.10:560][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurBP/Triggers/CheckpointTrigger" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset" SILENT=true
+[2020.03.20-15.56.10:572][737]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/CheckpointTrigger70D205EF4EF0FDC4AF7B819DDB66F85A.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset'
+[2020.03.20-15.56.10:584][737]AssetCheck: New page: Asset Save: CheckpointTrigger
+[2020.03.20-15.56.10:585][737]LogContentValidation: Display: Validating Blueprint /Game/OurBP/Triggers/CheckpointTrigger.CheckpointTrigger
+[2020.03.20-15.56.41:013][338]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-15.56.41:038][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.56.41:038][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-15.56.41:038][338]PIE: New page: PIE session: terrain (20 mar. 2020 17:56:41)
+[2020.03.20-15.56.41:038][338]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.56.41:132][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093203s)
+[2020.03.20-15.56.41:133][338]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.56.41:133][338]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2020.03.20-15.56.41:133][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.094243s)
+[2020.03.20-15.56.41:165][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.03.20-15.56.41:169][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.20-15.56.41:169][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.20-15.56.41:169][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.20-15.56.41:169][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.20-15.56.41:169][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.20-15.56.41:169][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.20-15.56.41:169][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.20-15.56.41:169][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.20-15.56.41:169][338]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.20-15.56.41:169][338]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.20-15.56.41:183][338]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.20-15.56.41:183][338]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.20-15.56.41:183][338]LogAudioMixer: Display: Is Default: Yes
+[2020.03.20-15.56.41:183][338]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.20-15.56.41:183][338]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.20-15.56.41:183][338]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.20-15.56.41:183][338]LogAudioMixer: Display: Channel Order:
+[2020.03.20-15.56.41:183][338]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.20-15.56.41:183][338]LogAudioMixer: Display: 1: FrontRight
+[2020.03.20-15.56.41:191][338]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.20-15.56.41:192][338]LogInit: FAudioDevice initialized.
+[2020.03.20-15.56.41:198][338]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.56.41:202][338]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.56.41
+[2020.03.20-15.56.41:202][338]LogWorld: Bringing up level for play took: 0.003722
+[2020.03.20-15.56.41:202][338]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2020.03.20-15.56.41:206][338]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.56.41:207][338]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain -0,338
+[2020.03.20-15.56.41:207][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.56.42:584][498]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.56.42:599][498]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.56.42:619][498]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.56.42:619][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.56.42:619][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.56.42:619][498]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.56.42:619][498]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.56.42:620][498]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.56.42:620][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.56.42:629][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-15.56.42:629][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.56.42:633][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.56.42:660][498]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.56.42:662][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.56.42:668][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.03.20-15.56.42:690][499]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2020.03.20-15.56.49:348][632]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-15.56.49:370][632]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.56.49:370][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-15.56.49:370][632]PIE: New page: PIE session: terrain (20 mar. 2020 17:56:49)
+[2020.03.20-15.56.49:372][632]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.56.49:463][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091024s)
+[2020.03.20-15.56.49:464][632]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.56.49:464][632]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2020.03.20-15.56.49:464][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.092008s)
+[2020.03.20-15.56.49:495][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.03.20-15.56.49:496][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.20-15.56.49:496][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.20-15.56.49:496][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.20-15.56.49:496][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.20-15.56.49:496][632]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.20-15.56.49:496][632]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.20-15.56.49:496][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.20-15.56.49:496][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.20-15.56.49:497][632]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.20-15.56.49:497][632]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.20-15.56.49:510][632]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.20-15.56.49:510][632]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.20-15.56.49:510][632]LogAudioMixer: Display: Is Default: Yes
+[2020.03.20-15.56.49:510][632]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.20-15.56.49:510][632]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.20-15.56.49:510][632]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.20-15.56.49:510][632]LogAudioMixer: Display: Channel Order:
+[2020.03.20-15.56.49:510][632]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.20-15.56.49:510][632]LogAudioMixer: Display: 1: FrontRight
+[2020.03.20-15.56.49:518][632]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.20-15.56.49:519][632]LogInit: FAudioDevice initialized.
+[2020.03.20-15.56.49:526][632]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.56.49:529][632]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.56.49
+[2020.03.20-15.56.49:530][632]LogWorld: Bringing up level for play took: 0.003553
+[2020.03.20-15.56.49:530][632]LogOnline: OSS: Creating online subsystem instance for: :Context_114
+[2020.03.20-15.56.49:534][632]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain -0,01
+[2020.03.20-15.56.49:534][632]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.56.51:481][839]LogNet: Browse: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.56.51:481][839]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.56.51:481][839]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.56.51:482][839]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.56.51:483][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.56.51:489][839]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.56.51:509][839]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.56.51:542][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.03.20-15.56.51:543][839]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.56.51:646][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103497s)
+[2020.03.20-15.56.51:647][839]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.56.51:647][839]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2020.03.20-15.56.51:647][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.104577s)
+[2020.03.20-15.56.51:647][839]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.56.51:660][839]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.56.51
+[2020.03.20-15.56.51:660][839]LogWorld: Bringing up level for play took: 0.012423
+[2020.03.20-15.56.51:666][839]LogLoad: Took 0.184744 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain)
+[2020.03.20-15.57.01:679][ 35]LogNet: Browse: /Game/ThirdPersonBP/Maps/GameOver
+[2020.03.20-15.57.01:679][ 35]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/GameOver
+[2020.03.20-15.57.01:679][ 35]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.57.01:679][ 35]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.57.01:680][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.57.01:708][ 35]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.57.01:728][ 35]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.57.01:762][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.03.20-15.57.01:780][ 35]LogAIModule: Creating AISystem for world GameOver
+[2020.03.20-15.57.01:780][ 35]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.57.01:780][ 35]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2020.03.20-16.57.01
+[2020.03.20-15.57.01:781][ 35]LogWorld: Bringing up level for play took: 0.000303
+[2020.03.20-15.57.01:781][ 35]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.20-15.57.01:793][ 35]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.20-15.57.01:794][ 35]LogLoad: Took 0.114654 seconds to LoadMap(/Game/ThirdPersonBP/Maps/GameOver)
+[2020.03.20-15.57.02:757][150]LogNet: Browse: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.57.02:757][150]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.57.02:757][150]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameOver
+[2020.03.20-15.57.02:757][150]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.57.02:757][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.57.02:769][150]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.57.02:789][150]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.57.02:821][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.03.20-15.57.02:821][150]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.57.02:914][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092552s)
+[2020.03.20-15.57.02:914][150]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.57.02:914][150]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2020.03.20-15.57.02:914][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.093498s)
+[2020.03.20-15.57.02:914][150]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.57.02:925][150]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.57.02
+[2020.03.20-15.57.02:925][150]LogWorld: Bringing up level for play took: 0.009922
+[2020.03.20-15.57.02:929][150]LogLoad: Took 0.171807 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain)
+[2020.03.20-15.57.15:005][594]LogBlueprintUserMessages: [None] Game Saved
+[2020.03.20-15.57.15:006][594]LogBlueprintUserMessages: [None] Game Saved
+[2020.03.20-15.57.17:175][854]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.57.17:188][854]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.57.17:218][854]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.57.17:218][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.57.17:218][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.57.17:218][854]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.57.17:218][854]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.57.17:219][854]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.57.17:219][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.57.17:228][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-15.57.17:228][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.57.17:232][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.57.17:261][854]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.57.17:263][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.57.17:268][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.03.20-15.57.17:294][855]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2020.03.20-15.57.20:206][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurBP/Triggers/Trigger.Trigger
+[2020.03.20-15.57.35:653][975]BlueprintLog: New page: Compile Trigger
+[2020.03.20-15.57.35:878][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.03.20-15.57.36:193][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurBP/Triggers/Trigger" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/Trigger.uasset" SILENT=true
+[2020.03.20-15.57.36:218][988]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/Trigger9DF8D0694FE57DD019F99CBDECFA8CBE.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/Trigger.uasset'
+[2020.03.20-15.57.36:235][988]AssetCheck: New page: Asset Save: Trigger
+[2020.03.20-15.57.36:236][988]LogContentValidation: Display: Validating Blueprint /Game/OurBP/Triggers/Trigger.Trigger
+[2020.03.20-15.57.37:552][134]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-15.57.37:577][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.57.37:577][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-15.57.37:577][134]PIE: New page: PIE session: terrain (20 mar. 2020 17:57:37)
+[2020.03.20-15.57.37:577][134]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.57.37:676][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098470s)
+[2020.03.20-15.57.37:677][134]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.57.37:677][134]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2020.03.20-15.57.37:677][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.099910s)
+[2020.03.20-15.57.37:713][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.03.20-15.57.37:714][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.20-15.57.37:714][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.20-15.57.37:714][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.20-15.57.37:714][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.20-15.57.37:714][134]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.20-15.57.37:714][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.20-15.57.37:714][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.20-15.57.37:714][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.20-15.57.37:714][134]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.20-15.57.37:714][134]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.20-15.57.37:727][134]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.20-15.57.37:727][134]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.20-15.57.37:727][134]LogAudioMixer: Display: Is Default: Yes
+[2020.03.20-15.57.37:727][134]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.20-15.57.37:727][134]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.20-15.57.37:727][134]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.20-15.57.37:727][134]LogAudioMixer: Display: Channel Order:
+[2020.03.20-15.57.37:727][134]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.20-15.57.37:727][134]LogAudioMixer: Display: 1: FrontRight
+[2020.03.20-15.57.37:735][134]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.20-15.57.37:736][134]LogInit: FAudioDevice initialized.
+[2020.03.20-15.57.37:741][134]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.57.37:745][134]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.57.37
+[2020.03.20-15.57.37:746][134]LogWorld: Bringing up level for play took: 0.003612
+[2020.03.20-15.57.37:746][134]LogOnline: OSS: Creating online subsystem instance for: :Context_117
+[2020.03.20-15.57.37:749][134]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.57.37:751][134]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain 0,206
+[2020.03.20-15.57.37:751][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.57.41:569][588]LogBlueprintUserMessages: [None] Game Saved
+[2020.03.20-15.57.41:579][589]LogBlueprintUserMessages: [None] Game Saved
+[2020.03.20-15.57.44:635][956]LogNet: Browse: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.57.44:635][956]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.57.44:635][956]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.57.44:636][956]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.57.44:636][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.57.44:649][956]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.57.44:668][956]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.57.44:703][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.03.20-15.57.44:704][956]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.57.44:797][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092612s)
+[2020.03.20-15.57.44:797][956]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.57.44:797][956]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2020.03.20-15.57.44:797][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.093531s)
+[2020.03.20-15.57.44:797][956]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.57.44:806][956]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.57.44
+[2020.03.20-15.57.44:806][956]LogWorld: Bringing up level for play took: 0.007928
+[2020.03.20-15.57.44:808][956]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.57.44:810][956]LogLoad: Took 0.175068 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain)
+[2020.03.20-15.57.49:401][502]LogBlueprintUserMessages: [None] Game Saved
+[2020.03.20-15.57.49:409][503]LogBlueprintUserMessages: [None] Game Saved
+[2020.03.20-15.57.52:100][826]LogNet: Browse: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.57.52:100][826]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.57.52:100][826]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.57.52:101][826]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.57.52:101][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.57.52:109][826]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.57.52:129][826]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.57.52:165][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.03.20-15.57.52:167][826]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.57.52:259][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091730s)
+[2020.03.20-15.57.52:260][826]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.57.52:260][826]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2020.03.20-15.57.52:260][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.092925s)
+[2020.03.20-15.57.52:260][826]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.57.52:269][826]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.57.52
+[2020.03.20-15.57.52:269][826]LogWorld: Bringing up level for play took: 0.008258
+[2020.03.20-15.57.52:272][826]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.57.52:273][826]LogLoad: Took 0.172527 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain)
+[2020.03.20-15.57.55:253][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.57.55:269][160]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.57.55:289][160]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.57.55:289][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.57.55:289][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.57.55:289][160]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.57.55:289][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.57.55:289][160]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.57.55:290][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.57.55:296][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-15.57.55:296][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.57.55:300][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.57.55:328][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.57.55:330][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.57.55:336][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.03.20-15.57.55:363][161]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2020.03.20-15.57.59:395][628]LogEditorViewport: Clicking on Actor (LMB): CheckpointTrigger_C (CheckpointTrigger)
+[2020.03.20-15.58.06:378][394]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-15.58.06:407][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.58.06:407][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-15.58.06:407][394]PIE: New page: PIE session: terrain (20 mar. 2020 17:58:06)
+[2020.03.20-15.58.06:407][394]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.06:501][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094083s)
+[2020.03.20-15.58.06:502][394]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.58.06:502][394]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2020.03.20-15.58.06:502][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.095136s)
+[2020.03.20-15.58.06:530][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.03.20-15.58.06:533][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.20-15.58.06:533][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.20-15.58.06:533][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.20-15.58.06:533][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.20-15.58.06:533][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.20-15.58.06:533][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.20-15.58.06:533][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.20-15.58.06:533][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.20-15.58.06:533][394]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.20-15.58.06:533][394]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.20-15.58.06:547][394]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.20-15.58.06:547][394]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.20-15.58.06:547][394]LogAudioMixer: Display: Is Default: Yes
+[2020.03.20-15.58.06:547][394]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.20-15.58.06:547][394]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.20-15.58.06:547][394]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.20-15.58.06:547][394]LogAudioMixer: Display: Channel Order:
+[2020.03.20-15.58.06:547][394]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.20-15.58.06:547][394]LogAudioMixer: Display: 1: FrontRight
+[2020.03.20-15.58.06:555][394]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.20-15.58.06:556][394]LogInit: FAudioDevice initialized.
+[2020.03.20-15.58.06:560][394]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.58.06:564][394]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.58.06
+[2020.03.20-15.58.06:564][394]LogWorld: Bringing up level for play took: 0.003582
+[2020.03.20-15.58.06:564][394]LogOnline: OSS: Creating online subsystem instance for: :Context_118
+[2020.03.20-15.58.06:567][394]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.58.06:569][394]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain 1,024
+[2020.03.20-15.58.06:569][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.58.09:182][701]LogBlueprintUserMessages: [None] Game Saved
+[2020.03.20-15.58.09:183][701]LogBlueprintUserMessages: [None] Game Saved
+[2020.03.20-15.58.11:084][929]LogNet: Browse: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.58.11:084][929]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.58.11:084][929]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.11:085][929]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.58.11:085][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.58.11:099][929]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.58.11:119][929]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.58.11:156][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.03.20-15.58.11:157][929]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.11:248][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090871s)
+[2020.03.20-15.58.11:248][929]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.58.11:248][929]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2020.03.20-15.58.11:248][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.091710s)
+[2020.03.20-15.58.11:248][929]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.58.11:254][929]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.58.11
+[2020.03.20-15.58.11:255][929]LogWorld: Bringing up level for play took: 0.005957
+[2020.03.20-15.58.11:257][929]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.58.11:259][929]LogLoad: Took 0.174468 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain)
+[2020.03.20-15.58.14:686][338]LogNet: Browse: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.58.14:686][338]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.58.14:686][338]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.14:687][338]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.58.14:687][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.58.14:699][338]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.58.14:729][338]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.58.14:766][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.03.20-15.58.14:768][338]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.14:858][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090637s)
+[2020.03.20-15.58.14:858][338]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.58.14:859][338]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2020.03.20-15.58.14:859][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.091557s)
+[2020.03.20-15.58.14:859][338]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.58.14:865][338]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.58.14
+[2020.03.20-15.58.14:866][338]LogWorld: Bringing up level for play took: 0.006535
+[2020.03.20-15.58.14:868][338]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.58.14:870][338]LogLoad: Took 0.183972 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain)
+[2020.03.20-15.58.20:539][ 14]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.58.20:549][ 14]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.58.20:569][ 14]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.58.20:569][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.58.20:569][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.58.20:569][ 14]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.20:569][ 14]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.58.20:569][ 14]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.58.20:570][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.58.20:578][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-15.58.20:578][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.58.20:582][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.58.20:613][ 14]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.58.20:615][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.58.20:620][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.03.20-15.58.20:645][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2020.03.20-15.58.24:575][458]LogEditorViewport: Clicking on Actor (LMB): CheckpointTrigger_C (CheckpointTrigger)
+[2020.03.20-15.58.31:305][218]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-15.58.31:334][218]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.58.31:334][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-15.58.31:334][218]PIE: New page: PIE session: terrain (20 mar. 2020 17:58:31)
+[2020.03.20-15.58.31:334][218]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.31:426][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092006s)
+[2020.03.20-15.58.31:427][218]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.58.31:427][218]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2020.03.20-15.58.31:427][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.093220s)
+[2020.03.20-15.58.31:460][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.03.20-15.58.31:462][218]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.20-15.58.31:463][218]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.20-15.58.31:463][218]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.20-15.58.31:463][218]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.20-15.58.31:463][218]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.20-15.58.31:463][218]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.20-15.58.31:463][218]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.20-15.58.31:463][218]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.20-15.58.31:463][218]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.20-15.58.31:463][218]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.20-15.58.31:476][218]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.20-15.58.31:476][218]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.20-15.58.31:476][218]LogAudioMixer: Display: Is Default: Yes
+[2020.03.20-15.58.31:476][218]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.20-15.58.31:476][218]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.20-15.58.31:476][218]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.20-15.58.31:476][218]LogAudioMixer: Display: Channel Order:
+[2020.03.20-15.58.31:476][218]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.20-15.58.31:476][218]LogAudioMixer: Display: 1: FrontRight
+[2020.03.20-15.58.31:484][218]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.20-15.58.31:485][218]LogInit: FAudioDevice initialized.
+[2020.03.20-15.58.31:493][218]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.58.31:497][218]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.58.31
+[2020.03.20-15.58.31:497][218]LogWorld: Bringing up level for play took: 0.003572
+[2020.03.20-15.58.31:497][218]LogOnline: OSS: Creating online subsystem instance for: :Context_119
+[2020.03.20-15.58.31:501][218]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.58.31:502][218]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain -0,043
+[2020.03.20-15.58.31:502][218]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.58.33:906][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.58.33:919][501]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.58.33:939][501]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.58.33:939][501]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.58.33:939][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.58.33:939][501]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.33:939][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.58.33:940][501]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.58.33:940][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.58.33:950][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-15.58.33:950][501]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.58.33:954][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.58.33:983][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.58.33:985][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.58.33:990][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.03.20-15.58.34:010][502]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2020.03.20-15.58.39:994][745]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.20-15.58.40:017][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.58.40:017][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.20-15.58.40:017][745]PIE: New page: PIE session: terrain (20 mar. 2020 17:58:40)
+[2020.03.20-15.58.40:018][745]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.40:108][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090550s)
+[2020.03.20-15.58.40:109][745]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.58.40:109][745]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2020.03.20-15.58.40:109][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.091382s)
+[2020.03.20-15.58.40:140][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.03.20-15.58.40:141][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.20-15.58.40:141][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.20-15.58.40:141][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.20-15.58.40:141][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.20-15.58.40:141][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.20-15.58.40:141][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.20-15.58.40:141][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.20-15.58.40:141][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.20-15.58.40:141][745]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.20-15.58.40:141][745]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.20-15.58.40:154][745]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.20-15.58.40:154][745]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.20-15.58.40:154][745]LogAudioMixer: Display: Is Default: Yes
+[2020.03.20-15.58.40:154][745]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.20-15.58.40:154][745]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.20-15.58.40:154][745]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.20-15.58.40:154][745]LogAudioMixer: Display: Channel Order:
+[2020.03.20-15.58.40:154][745]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.20-15.58.40:154][745]LogAudioMixer: Display: 1: FrontRight
+[2020.03.20-15.58.40:162][745]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.20-15.58.40:163][745]LogInit: FAudioDevice initialized.
+[2020.03.20-15.58.40:170][745]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.58.40:174][745]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.58.40
+[2020.03.20-15.58.40:174][745]LogWorld: Bringing up level for play took: 0.003560
+[2020.03.20-15.58.40:175][745]LogOnline: OSS: Creating online subsystem instance for: :Context_120
+[2020.03.20-15.58.40:179][745]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain 0,634
+[2020.03.20-15.58.40:179][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.58.49:701][867]LogBlueprintUserMessages: [None] Game Saved
+[2020.03.20-15.58.49:702][867]LogBlueprintUserMessages: [None] Game Saved
+[2020.03.20-15.58.51:371][ 67]LogNet: Browse: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.58.51:371][ 67]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.58.51:371][ 67]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.51:372][ 67]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.58.51:372][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.58.51:388][ 67]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.58.51:408][ 67]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.58.51:445][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.03.20-15.58.51:446][ 67]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.51:540][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093435s)
+[2020.03.20-15.58.51:541][ 67]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.58.51:541][ 67]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2020.03.20-15.58.51:541][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.094462s)
+[2020.03.20-15.58.51:541][ 67]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.58.51:551][ 67]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.58.51
+[2020.03.20-15.58.51:551][ 67]LogWorld: Bringing up level for play took: 0.009760
+[2020.03.20-15.58.51:554][ 67]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.58.51:555][ 67]LogLoad: Took 0.183401 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain)
+[2020.03.20-15.58.54:207][383]LogNet: Browse: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.58.54:207][383]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.58.54:207][383]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.54:207][383]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.58.54:208][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.58.54:219][383]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.58.54:239][383]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.58.54:273][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.20-15.58.54:276][383]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.54:367][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092161s)
+[2020.03.20-15.58.54:368][383]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.58.54:368][383]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2020.03.20-15.58.54:368][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.093038s)
+[2020.03.20-15.58.54:368][383]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.58.54:376][383]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.58.54
+[2020.03.20-15.58.54:377][383]LogWorld: Bringing up level for play took: 0.008095
+[2020.03.20-15.58.54:379][383]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.58.54:380][383]LogLoad: Took 0.174223 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain)
+[2020.03.20-15.58.57:366][738]LogNet: Browse: /Game/ThirdPersonBP/Maps/GameOver
+[2020.03.20-15.58.57:366][738]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/GameOver
+[2020.03.20-15.58.57:366][738]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.57:366][738]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.58.57:367][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.58.57:379][738]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.58.57:399][738]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.58.57:435][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.03.20-15.58.57:445][738]LogAIModule: Creating AISystem for world GameOver
+[2020.03.20-15.58.57:445][738]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.58.57:445][738]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2020.03.20-16.58.57
+[2020.03.20-15.58.57:446][738]LogWorld: Bringing up level for play took: 0.000344
+[2020.03.20-15.58.57:446][738]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.20-15.58.57:447][738]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain': Can't find file.
+[2020.03.20-15.58.57:447][738]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain': Can't find file.
+[2020.03.20-15.58.57:447][738]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain.PersistentLevel.Coin2'
+[2020.03.20-15.58.57:448][738]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.58.57:448][738]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.20-15.58.57:449][738]LogLoad: Took 0.082765 seconds to LoadMap(/Game/ThirdPersonBP/Maps/GameOver)
+[2020.03.20-15.58.58:313][841]LogNet: Browse: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.58.58:313][841]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/terrain
+[2020.03.20-15.58.58:313][841]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameOver
+[2020.03.20-15.58.58:313][841]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.58.58:313][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.58.58:319][841]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.58.58:339][841]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.58.58:371][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.03.20-15.58.58:371][841]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.58.58:463][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090755s)
+[2020.03.20-15.58.58:463][841]LogAIModule: Creating AISystem for world terrain
+[2020.03.20-15.58.58:463][841]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2020.03.20-15.58.58:464][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/terrain.terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain (0.091828s)
+[2020.03.20-15.58.58:464][841]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.20-15.58.58:471][841]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain.terrain up for play (max tick rate 0) at 2020.03.20-16.58.58
+[2020.03.20-15.58.58:472][841]LogWorld: Bringing up level for play took: 0.008673
+[2020.03.20-15.58.58:474][841]LogBlueprintUserMessages: [None] Game Loaded
+[2020.03.20-15.58.58:476][841]LogLoad: Took 0.163401 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_terrain)
+[2020.03.20-15.59.55:525][681]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.59.55:539][681]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.20-15.59.55:559][681]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.20-15.59.55:559][681]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.59.55:559][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.59.55:559][681]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_terrain
+[2020.03.20-15.59.55:559][681]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.59.55:559][681]LogWorld: UWorld::CleanupWorld for terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-15.59.55:560][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.59.55:567][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.20-15.59.55:567][681]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/terrain.terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/terrain.terrain:PersistentLevel.terrain'
+[2020.03.20-15.59.55:571][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-15.59.55:601][681]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.20-15.59.55:603][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.20-15.59.55:609][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.03.20-15.59.55:634][682]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2020.03.20-16.00.18:535][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/terrain" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/ThirdPersonBP/Maps/terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.20-16.00.18:566][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.03.20-16.00.18:863][386]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/terrainC86B416140A349F828B743A174A6C15D.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/ThirdPersonBP/Maps/terrain.umap'
+[2020.03.20-16.00.18:911][386]AssetCheck: New page: Asset Save: terrain
+[2020.03.20-16.00.18:911][386]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/terrain.terrain
+[2020.03.20-16.00.23:085][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurBP/Triggers/CheckpointTrigger" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset" SILENT=true
+[2020.03.20-16.00.23:099][848]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/CheckpointTriggerD3D582C2488A3AD71C60FD908A9FDDB5.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/CheckpointTrigger.uasset'
+[2020.03.20-16.00.23:110][848]AssetCheck: New page: Asset Save: CheckpointTrigger
+[2020.03.20-16.00.23:110][848]LogContentValidation: Display: Validating Blueprint /Game/OurBP/Triggers/CheckpointTrigger.CheckpointTrigger
+[2020.03.20-16.00.23:783][919]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-16.00.23:783][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-16.00.25:285][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurBP/Triggers/DeathTrigger" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/DeathTrigger.uasset" SILENT=true
+[2020.03.20-16.00.25:300][ 80]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/DeathTrigger06FC688F4B950B6D51A5EE9BB63B1188.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/OurBP/Triggers/DeathTrigger.uasset'
+[2020.03.20-16.00.25:309][ 80]AssetCheck: New page: Asset Save: DeathTrigger
+[2020.03.20-16.00.25:309][ 80]LogContentValidation: Display: Validating Blueprint /Game/OurBP/Triggers/DeathTrigger.DeathTrigger
+[2020.03.20-16.00.25:900][141]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.20-16.00.25:900][141]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-16.00.25:900][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-16.00.26:734][233]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.20-16.00.26:734][233]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-16.00.26:734][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-16.00.27:150][276]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.20-16.00.27:150][276]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-16.00.27:150][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-16.00.27:548][315]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.20-16.00.27:548][315]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.03.20-16.00.27:548][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.20-16.00.31:235][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/terrain" FILE="../../../../../Gits/UnrealProject/UnrealProject/Content/ThirdPersonBP/Maps/terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.20-16.00.31:263][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.03.20-16.00.31:548][746]LogSavePackage: Moving '../../../../../Gits/UnrealProject/UnrealProject/Saved/terrain9E6EF5804CCB24BE14C0E492FD9E92B0.tmp' to '../../../../../Gits/UnrealProject/UnrealProject/Content/ThirdPersonBP/Maps/terrain.umap'
+[2020.03.20-16.00.31:591][746]AssetCheck: New page: Asset Save: terrain
+[2020.03.20-16.00.31:591][746]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/terrain.terrain
