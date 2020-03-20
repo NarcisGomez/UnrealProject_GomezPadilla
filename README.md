@@ -4,7 +4,7 @@
 ## Mandatory (4.0p)
 
 - [ ] Physical bullet with pawn control (1.0p)
-- [ ] Load & Save (manual & automatic) (1.0p)
+- [x] Load & Save (manual & automatic) (1.0p)
 - [x] 5 sounds (0.5p)
 - [ ] Particles for each shot type (1.0p)
 - [ ] Explain code structure (0.5p)
